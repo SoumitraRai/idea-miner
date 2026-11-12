@@ -1,0 +1,5 @@
+idea-miner-runs/
+.shark/
+*.plugin
+.DS_Store
+__pycache__/

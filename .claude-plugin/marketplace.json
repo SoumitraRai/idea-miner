@@ -1,0 +1,8 @@
+{
+  "name": "idea-miner",
+  "description": "Idea Miner: evidence-backed startup idea mining and scoring",
+  "owner": { "name": "Soumitra Rai" },
+  "plugins": [
+    { "name": "idea-miner", "source": "./", "description": "Mine, autopsy and score startup ideas from real pain points" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "idea-miner",
+  "displayName": "Idea Miner",
+  "version": "0.1.0",
+  "description": "Mines evidence-backed startup problems from YC RFS, Razorpay Fix My Itch, Reddit, X, LinkedIn and review sites with parallel research agents, autopsies past failures, and scores ideas on an 8-dimension venture rubric. Hands off to startup-competitors and /shark when installed.",
+  "author": { "name": "Soumitra Rai" },
+  "license": "MIT",
+  "keywords": ["startup", "ideas", "validation", "market-research", "venture", "india", "founders"]
+}
